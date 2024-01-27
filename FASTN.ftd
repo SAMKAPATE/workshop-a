@@ -1,0 +1,19 @@
+-- import: fastn
+
+-- fastn.package: samkapate.github.io/workshop-a
+favicon: /-/samkapate.github.io/workshop-a/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: samkapate.github.io/workshop-a/FASTN/ds
+-- fastn.auto-import: samkapate.github.io/workshop-a/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
